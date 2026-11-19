@@ -15,6 +15,12 @@ This folder implements the study plan (ADM baseline, definitions, cross-cutting 
 | [06-exam-day-checklist.md](06-exam-day-checklist.md) | Time strategy + one-page last-minute sheet |
 | [miscellaneous.md](miscellaneous.md) | Cross-cutting topics: Architecture Repository, Continuum, metamodel, partitions, scenarios, gap analysis, iteration/tailoring, traps |
 
+## Reference materials (`reference/`)
+
+| File | Purpose |
+|------|---------|
+| [reference/TOGAF-Acronym-Cheat-Sheet.pdf](reference/TOGAF-Acronym-Cheat-Sheet.pdf) | Acronym cheat sheet for last-minute memory refresh |
+
 ## ADM phase deep dives (`phases/`)
 
 Each file lists **key terms**, **functions**, **links to other phases**, and **boundaries** (exam-oriented).
@@ -39,7 +45,7 @@ Each file lists **key terms**, **functions**, **links to other phases**, and **b
 3. Skim **miscellaneous** (repository keywords, continuum, scenarios, gap analysis, traps).  
 4. Complete **03** elimination drill.  
 5. Sit **04** questions under **60 minutes** closed book → score with **04-mock-exam-answers** → fill **05**.  
-6. Morning of exam: **06** only (+ weak tags from **05**).
+6. Morning of exam: **06** only (+ weak tags from **05**); skim the [acronym cheat sheet](reference/TOGAF-Acronym-Cheat-Sheet.pdf) if needed.
 
 ---
 
