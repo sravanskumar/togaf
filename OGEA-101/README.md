@@ -23,6 +23,7 @@ This folder implements the study plan (ADM baseline, definitions, cross-cutting 
 | [reference/architecture-principles-and-adr.md](reference/architecture-principles-and-adr.md) | Principle template (Name/Statement/Rationale/Implications) + ADR practice template |
 | [reference/landscape-deliverables-maturity.md](reference/landscape-deliverables-maturity.md) | Strategic/Segment/Capability; capability vs value stream; ADD/Requirements Spec/Roadmap/Contract; maturity vs compliance |
 | [reference/deliverable-lifecycle-by-phase.md](reference/deliverable-lifecycle-by-phase.md) | Which phase creates/updates ADD, ARS, Roadmap, Contract, Vision, and related deliverables |
+| [reference/artifacts-vs-deliverables.md](reference/artifacts-vs-deliverables.md) | Deliverables vs artifacts vs building blocks (Content Framework triad) |
 
 ## ADM phase deep dives (`phases/`)
 

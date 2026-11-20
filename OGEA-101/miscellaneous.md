@@ -98,9 +98,11 @@ Full exam notes: [reference/landscape-deliverables-maturity.md](reference/landsc
 
 ---
 
-## 9. Building blocks (compact pointer)
+## 9. Building blocks + artifacts vs deliverables
 
-- **ABB** vs **SBB:** [02-definitions-drill.md](02-definitions-drill.md).
+- **ABB** vs **SBB:** [02-definitions-drill.md](02-definitions-drill.md).  
+- **Deliverable** = formal signed package · **Artifact** = catalog/matrix/diagram inside it · **Building Block** = reusable capability chunk.  
+- Full note: [reference/artifacts-vs-deliverables.md](reference/artifacts-vs-deliverables.md).
 
 ---
 
@@ -120,4 +122,5 @@ Full exam notes: [reference/landscape-deliverables-maturity.md](reference/landsc
 | B vs C vs D | **Business** vs **Data/App** vs **Technology**. |
 | E vs F vs G | **Work packages** vs **roadmap/timing** vs **build conformance**. |
 | Viewpoint vs view | Viewpoint = **conventions**; view = **result**. |
+| Deliverable vs artifact | Deliverable = **formal package**; artifact = **granular** catalog/matrix/diagram inside it. |
 | “Primary / best” | Pick **TOGAF definition**, not casual IT habit. |

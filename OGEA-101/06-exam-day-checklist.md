@@ -56,6 +56,8 @@
 
 **Maturity** = EA practice · **Compliance** = implementation conformance
 
+**Content Framework:** Deliverable = signed package · Artifact = catalog/matrix/diagram · Building Block = ABB/SBB
+
 ---
 
 ## If stuck in the last minute

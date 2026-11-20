@@ -34,6 +34,8 @@
 
 ## 3. Key architecture deliverables (don’t swap them)
 
+**First:** Deliverable ≠ Artifact — formal signed **package** vs granular **catalog/matrix/diagram** inside it. See [artifacts-vs-deliverables.md](artifacts-vs-deliverables.md).
+
 | Deliverable | What it consolidates / does |
 |-------------|-----------------------------|
 | **Architecture Definition Document (ADD)** | Consolidates **Baseline** and **Target** Architecture descriptions, including relevant **views** and supporting **analysis**. |

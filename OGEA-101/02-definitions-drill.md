@@ -11,6 +11,20 @@
 
 ---
 
+## Artifacts vs Deliverables (Content Framework)
+
+| Term | Exam-oriented definition |
+|------|---------------------------|
+| **Deliverable** | **Formal** work product — typically contractually specified, reviewed/signed off, archived (e.g. ADD, Roadmap, Vision, Contract). |
+| **Artifact** | **Granular** architecture description — often a **catalog**, **matrix**, or **diagram**; usually contained **inside** deliverables. |
+| **Building Block** | **Reusable** capability component (**ABB** / **SBB**) — described by artifacts, packaged in deliverables. |
+
+**Memory:** Deliverable = signed **package**. Artifact = **piece** of description. Building Block = reusable **capability** chunk.
+
+Full note: [reference/artifacts-vs-deliverables.md](reference/artifacts-vs-deliverables.md).
+
+---
+
 ## Stakeholder / concern / viewpoint / view
 
 | Term | Exam-oriented definition |
@@ -62,4 +76,7 @@ Memorize **names** and **what kind of thing** lives there:
 7. Most organization-specific architecture description sits toward which end of the Architecture Continuum? **Organization-Specific**  
 8. Phase C develops architectures for which domain pair? **Data and Application** (Information Systems)  
 9. ABB describes **logical** architecture building blocks: Y/N? **Y**  
-10. Viewpoint is the **resulting diagram**: Y/N? **N** (that’s the view)
+10. Viewpoint is the **resulting diagram**: Y/N? **N** (that’s the view)  
+11. Architecture Definition Document is a? **Deliverable**  
+12. An application catalog or data matrix inside the ADD is a? **Artifact**  
+13. Content Framework triad? **Deliverables, Artifacts, Building Blocks**
