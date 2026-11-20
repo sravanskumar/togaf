@@ -6,7 +6,7 @@
 
 | Term | Short description |
 |------|-------------------|
-| **Architecture contract** | Agreement between **governance** and **delivery** on scope, conformance, and acceptance criteria. |
+| **Architecture contract** | Agreement between **governance** and **delivery** on scope, conformance, and acceptance criteria — formalizes **implementation commitments** and governance expectations (not the Architecture Definition Document or Roadmap). |
 | **Compliance assessment** | Activity to **measure** how well an implementation (or supplier) **matches** the architecture. |
 | **Conformance** | Alignment of projects/products with the **agreed** architecture. |
 

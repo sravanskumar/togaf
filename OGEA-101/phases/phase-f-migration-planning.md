@@ -6,7 +6,7 @@
 
 | Term | Short description |
 |------|-------------------|
-| **Migration roadmap** | **Time-phased** plan of initiatives and dependencies. |
+| **Migration roadmap** | **Time-phased** plan of initiatives and dependencies. Exam: the **Architecture Roadmap** describes planned **evolution** toward the Target (not the same as the Architecture Definition Document). |
 | **Sequencing** | **Order** of work packages and transitions to manage risk and dependencies. |
 | **Transition Architecture** | Architectures describing **intermediate** states during the move (exam: recognize as migration-related). |
 

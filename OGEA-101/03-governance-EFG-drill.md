@@ -16,6 +16,8 @@ If **contracts / compliance / conformance during implementation** → **G**.
 
 Used to **measure** how implementation (or partner systems) **conforms** to the architecture. Tied to **Phase G** context (implementation governance), not to initial visioning.
 
+**Do not confuse with Architecture Maturity Model:** compliance = **implementation** conformance; maturity = how developed the **EA practice** is (see [reference/landscape-deliverables-maturity.md](reference/landscape-deliverables-maturity.md)).
+
 ---
 
 ## Architecture contracts (exam vocabulary)

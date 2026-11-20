@@ -13,7 +13,7 @@ This folder implements the study plan (ADM baseline, definitions, cross-cutting 
 | [04-mock-exam-answers.md](04-mock-exam-answers.md) | Key + short explanations + restudy rule |
 | [05-miss-tag-log.md](05-miss-tag-log.md) | Log wrong items and tags after each mock |
 | [06-exam-day-checklist.md](06-exam-day-checklist.md) | Time strategy + one-page last-minute sheet |
-| [miscellaneous.md](miscellaneous.md) | Cross-cutting topics: Architecture Repository, Continuum, metamodel, partitions, scenarios, gap analysis, iteration/tailoring, traps |
+| [miscellaneous.md](miscellaneous.md) | Cross-cutting topics: Architecture Repository, Continuum, landscape/deliverables, metamodel, partitions, scenarios, gap analysis, iteration/tailoring, traps |
 
 ## Reference materials (`reference/`)
 
@@ -21,6 +21,7 @@ This folder implements the study plan (ADM baseline, definitions, cross-cutting 
 |------|---------|
 | [reference/TOGAF-Acronym-Cheat-Sheet.pdf](reference/TOGAF-Acronym-Cheat-Sheet.pdf) | Acronym cheat sheet for last-minute memory refresh |
 | [reference/architecture-principles-and-adr.md](reference/architecture-principles-and-adr.md) | Principle template (Name/Statement/Rationale/Implications) + ADR practice template |
+| [reference/landscape-deliverables-maturity.md](reference/landscape-deliverables-maturity.md) | Strategic/Segment/Capability; capability vs value stream; ADD/Requirements Spec/Roadmap/Contract; maturity vs compliance |
 
 ## ADM phase deep dives (`phases/`)
 

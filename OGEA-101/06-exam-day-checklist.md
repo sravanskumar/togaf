@@ -46,6 +46,14 @@
 
 **Principle template:** **Name · Statement · Rationale · Implications** (N-S-R-I)
 
+**Landscape:** Strategic (enterprise/long) · Segment (domain/programs) · Capability (focused change)
+
+**Capability** = what business can do · **Value stream** = how stakeholder value is created
+
+**Deliverables:** ADD = baseline+target+views · Requirements Spec = requirements/constraints · Roadmap = evolution to target · Contract = implementation commitments
+
+**Maturity** = EA practice · **Compliance** = implementation conformance
+
 ---
 
 ## If stuck in the last minute

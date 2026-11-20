@@ -16,7 +16,7 @@ Topics that often appear on the exam but are **not** tied to a **single** ADM ph
 |------|----------------|---------------|
 | **Architecture Metamodel** | Rules for **how** your org structures architecture descriptions | metamodel, entities/relationships in descriptions |
 | **Architecture Capability** | **Who** does EA: roles, skills, operating model | capability, skills, roles, EA team |
-| **Architecture Landscape** | **States** of architecture (strategic → operational), baseline/target breadth | landscape, strategic/segment/capability/operational |
+| **Architecture Landscape** | **States** of architecture at **Strategic / Segment / Capability** breadth (and related depth) | landscape, strategic/segment/capability |
 | **Standards Information Base** | **Standards** catalog (mandatory + voluntary) | standards, compliance to standards catalog |
 | **Reference Library** | **Reference models**, **patterns**, **templates**, guidelines | patterns, templates, reference model |
 | **Governance Log** | **Decisions**, **compliance** outcomes, waivers | governance decision, compliance result, exception record |
@@ -32,6 +32,19 @@ Topics that often appear on the exam but are **not** tied to a **single** ADM ph
 - **Solutions Continuum:** Parallel idea for **solutions** (generic products → org-specific implementations).
 
 **Exam pattern:** “Most specific to our organization” → **Organization-Specific** end. **Standards** often sit with **standards** / generic side conceptually; **org-specific** is the tailored end.
+
+---
+
+## 2b. Landscape levels, deliverables, capability vs value stream, maturity
+
+Full exam notes: [reference/landscape-deliverables-maturity.md](reference/landscape-deliverables-maturity.md).
+
+| Topic | One-line exam rule |
+|-------|--------------------|
+| **Strategic / Segment / Capability Architecture** | Enterprise long-horizon → segment/domain → focused capability/solution change |
+| **Capability vs value stream** | Capability = **what** business can do; value stream = **how** stakeholder value is created |
+| **ADD vs Requirements Spec vs Roadmap vs Contract** | Baseline+Target+views → detailed requirements → planned evolution → implementation commitments |
+| **Maturity vs compliance** | Maturity = EA **practice**; compliance = **implementation** conformance |
 
 ---
 
