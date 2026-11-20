@@ -13,6 +13,7 @@ This folder implements the study plan (ADM baseline, definitions, cross-cutting 
 | [04-mock-exam-answers.md](04-mock-exam-answers.md) | Key + short explanations + restudy rule |
 | [05-miss-tag-log.md](05-miss-tag-log.md) | Log wrong items and tags after each mock |
 | [06-exam-day-checklist.md](06-exam-day-checklist.md) | Time strategy + one-page last-minute sheet |
+| [07-scenario-drills.md](07-scenario-drills.md) | Situational/scenario-style stems: keyword map + 22 practice scenarios with answers |
 | [miscellaneous.md](miscellaneous.md) | Cross-cutting topics: Architecture Repository, Continuum, landscape/deliverables, metamodel, partitions, scenarios, gap analysis, iteration/tailoring, traps |
 
 ## Reference materials (`reference/`)
@@ -48,8 +49,9 @@ Each file lists **key terms**, **functions**, **links to other phases**, and **b
 2. Drill **02** until flash questions are instant.  
 3. Skim **miscellaneous** (repository keywords, continuum, scenarios, gap analysis, traps).  
 4. Complete **03** elimination drill.  
-5. Sit **04** questions under **60 minutes** closed book → score with **04-mock-exam-answers** → fill **05**.  
-6. Morning of exam: **06** only (+ weak tags from **05**); skim the [acronym cheat sheet](reference/TOGAF-Acronym-Cheat-Sheet.pdf) if needed.
+5. Drill **07** scenario stems (situational questions) until keyword→concept is automatic.  
+6. Sit **04** questions under **60 minutes** closed book → score with **04-mock-exam-answers** → fill **05**.  
+7. Morning of exam: **06** only (+ weak tags from **05**); skim the [acronym cheat sheet](reference/TOGAF-Acronym-Cheat-Sheet.pdf) if needed.
 
 ---
 

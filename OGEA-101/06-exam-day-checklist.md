@@ -13,7 +13,8 @@
 5. **“Primary / Best / First”** → choose the answer that matches **TOGAF definitions**, not general IT habit.  
 6. **Absolutes** (“always,” “never,” “only”) are often **wrong** unless they restate a definition.  
 7. **No penalty** for guessing on typical multiple-choice — **do not leave blanks**.  
-8. If two answers remain: ask **which phase** or **which definition** the stem is really testing.
+8. If two answers remain: ask **which phase** or **which definition** the stem is really testing.  
+9. **Scenario stems:** ignore company fluff → underline the ask → match a **keyword cluster** (phase / deliverable / landscape / repo) → eliminate neighbors (E vs F, Preliminary vs A, maturity vs compliance). See [07-scenario-drills.md](07-scenario-drills.md).
 
 ---
 
