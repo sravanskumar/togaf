@@ -41,7 +41,7 @@ Full exam notes: [reference/landscape-deliverables-maturity.md](reference/landsc
 
 | Topic | One-line exam rule |
 |-------|--------------------|
-| **Strategic / Segment / Capability Architecture** | Enterprise long-horizon → segment/domain → focused capability/solution change |
+| **Strategic / Segment / Capability Architecture** | Enterprise long-horizon (execs) → segment/domain (program leaders) → focused capability/solution (delivery teams) — see [reference/landscape-deliverables-maturity.md](reference/landscape-deliverables-maturity.md) |
 | **Capability vs value stream** | Capability = **what** business can do; value stream = **how** stakeholder value is created |
 | **ADD vs Requirements Spec vs Roadmap vs Contract** | Baseline+Target+views → detailed requirements → planned evolution → implementation commitments |
 | **Deliverable lifecycle** | **B–D draft** ADD/ARS → **E** update / first full Roadmap → **F finalize**; Contract used in **G** — [reference/deliverable-lifecycle-by-phase.md](reference/deliverable-lifecycle-by-phase.md) |

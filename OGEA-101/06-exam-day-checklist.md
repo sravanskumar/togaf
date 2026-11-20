@@ -46,7 +46,7 @@
 
 **Principle template:** **Name · Statement · Rationale · Implications** (N-S-R-I)
 
-**Landscape:** Strategic (enterprise/long) · Segment (domain/programs) · Capability (focused change)
+**Landscape:** Strategic → exec/enterprise direction · Segment → domain/program leaders · Capability → delivery teams (focused change)
 
 **Capability** = what business can do · **Value stream** = how stakeholder value is created
 

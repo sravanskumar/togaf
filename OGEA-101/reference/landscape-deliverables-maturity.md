@@ -14,6 +14,34 @@
 
 **Trap:** Do not confuse **Capability Architecture** (landscape breadth) with **Architecture Capability** (the EA team’s ability to run EA — repository area / Preliminary).
 
+### What is provided, to whom (exam + practical)
+
+Think: **breadth ↓ → detail ↑**. Strategic answers “where is the enterprise going?” Segment answers “how does this domain/program portfolio change?” Capability answers “what must this specific change look like to build?”
+
+| Level | What is typically provided | Primary audience (to whom) | Simple example |
+|-------|----------------------------|----------------------------|----------------|
+| **Strategic Architecture** | Enterprise **direction**: major outcomes, capability themes, principles alignment, long-horizon target shape, investment priorities — **not** project designs | **CxO / board / strategy**, enterprise architects, portfolio leadership | “In 5 years we become a digital lender: shared customer platform, cloud-first, risk capability standardized bank-wide.” |
+| **Segment Architecture** | Architecture for a **business segment or domain** (or related **programs**): segment baseline/target, major building blocks, program-level roadmap, dependencies across projects in that segment | **Segment / domain owners**, program directors, domain architects, business unit leadership | “Retail Banking segment: Target for onboarding + payments programs; shared KYC services; 3-year segment roadmap.” |
+| **Capability Architecture** | Architecture for **one capability or solution change**: detailed enough baseline/target, views, requirements, and solution constraints for **delivery** | **Project / product / solution teams**, capability owners, delivery architects, vendors implementing the change | “Credit Risk Assessment capability: Target process, data entities, applications, and integration for the new scoring solution.” |
+
+**Audience ladder (simple)**
+
+- Strategic → **enterprise decision-makers** (“Should we invest this way?”)  
+- Segment → **domain / program leaders** (“How do our programs fit together?”)  
+- Capability → **delivery teams** (“What exactly do we build for this change?”)
+
+**Banking example (one story across levels)**
+
+1. **Strategic:** Digitize lending enterprise-wide over 5 years.  
+2. **Segment:** Mortgage & personal-loan domain architecture and program set.  
+3. **Capability:** “Mortgage underwriting decision” capability architecture for the next release.
+
+**Exam stems**
+
+- Long horizon + whole enterprise → **Strategic**  
+- Business unit / domain / related programs → **Segment**  
+- Single capability or specific solution change → **Capability Architecture**
+
 ---
 
 ## 2. Business capability vs value stream
