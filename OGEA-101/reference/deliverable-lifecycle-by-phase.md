@@ -2,7 +2,8 @@
 
 **Exam use:** Match the **deliverable** to **where it is mainly created** vs **refined/finalized**. Iteration means artifacts can be revisited; the table shows the **typical exam story**.
 
-**Companion distinctions:** [landscape-deliverables-maturity.md](landscape-deliverables-maturity.md) (what each deliverable *is*).
+**Companion distinctions:** [landscape-deliverables-maturity.md](landscape-deliverables-maturity.md) (what each deliverable *is*).  
+**Artifacts (catalogs/matrices/diagrams) by phase:** [artifact-lifecycle-by-phase.md](artifact-lifecycle-by-phase.md).
 
 **Qualitative vs quantitative (classic trap)**
 

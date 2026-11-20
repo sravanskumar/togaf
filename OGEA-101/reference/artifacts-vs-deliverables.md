@@ -37,6 +37,8 @@
 
 **Trap:** An “application catalog” is an **artifact**, not a deliverable by itself. The **ADD** that includes that catalog is a **deliverable**.
 
+**Produce / update by phase:** [artifact-lifecycle-by-phase.md](artifact-lifecycle-by-phase.md).
+
 ---
 
 ## Building Blocks (compact)

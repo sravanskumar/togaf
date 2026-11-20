@@ -21,7 +21,8 @@
 
 **Memory:** Deliverable = signed **package**. Artifact = **piece** of description. Building Block = reusable **capability** chunk.
 
-Full note: [reference/artifacts-vs-deliverables.md](reference/artifacts-vs-deliverables.md).
+Full note: [reference/artifacts-vs-deliverables.md](reference/artifacts-vs-deliverables.md).  
+Phase produce/update map: [reference/artifact-lifecycle-by-phase.md](reference/artifact-lifecycle-by-phase.md).
 
 ---
 

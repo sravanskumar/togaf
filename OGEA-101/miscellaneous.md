@@ -104,7 +104,8 @@ Full exam notes: [reference/landscape-deliverables-maturity.md](reference/landsc
 
 - **ABB** vs **SBB:** [02-definitions-drill.md](02-definitions-drill.md).  
 - **Deliverable** = formal signed package · **Artifact** = catalog/matrix/diagram inside it · **Building Block** = reusable capability chunk.  
-- Full note: [reference/artifacts-vs-deliverables.md](reference/artifacts-vs-deliverables.md).
+- Full note: [reference/artifacts-vs-deliverables.md](reference/artifacts-vs-deliverables.md).  
+- Produce/update by phase: [reference/artifact-lifecycle-by-phase.md](reference/artifact-lifecycle-by-phase.md).
 
 ---
 
