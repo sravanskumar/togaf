@@ -21,7 +21,18 @@
 - **Back to earlier phases:** May re-enter at **A**, **B**, **C**, etc., depending on the nature of change.
 - **Requirements Management:** New and changed **requirements** from the environment feed the hub.
 
+## Key deliverables (create / update)
+
+| Deliverable | In Phase H |
+|-------------|------------|
+| **Change Request** | Managed / acted on |
+| **Architecture updates** | Architecture descriptions may be **updated** |
+| **Request for Architecture Work** | May be issued to start a **new** cycle |
+| **Statement of Architecture Work / principles** | May be **updated** if change requires it |
+
 ## Boundaries
 
 - **Not Phase G:** H is **not** day-to-day **project conformance** policing — that is **G**.
 - **Not Preliminary:** H does **not** replace standing **EA capability** setup (Preliminary).
+
+Lifecycle table: [../reference/deliverable-lifecycle-by-phase.md](../reference/deliverable-lifecycle-by-phase.md).

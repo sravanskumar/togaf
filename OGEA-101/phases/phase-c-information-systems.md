@@ -22,7 +22,17 @@
 - **To Phase D:** Data and application outcomes drive **technology** choices and standards.
 - **Requirements Management:** IS-level requirements flow through the hub.
 
+## Key deliverables (create / update)
+
+| Deliverable | In Phase C |
+|-------------|------------|
+| **Architecture Definition Document** | **Draft / extend** with Data + Application Architectures |
+| **Architecture Requirements Specification** | **Draft / extend** IS-related requirements |
+| **Architecture Roadmap** | May contribute **roadmap components** |
+
 ## Boundaries
 
 - **Not Phase B:** Business-only modeling as the **main** deliverable belongs in **B**.
 - **Not Phase D:** **Technology** architecture (platforms, tech standards mapping) is **D**, not the main focus of C.
+
+Lifecycle table: [../reference/deliverable-lifecycle-by-phase.md](../reference/deliverable-lifecycle-by-phase.md).

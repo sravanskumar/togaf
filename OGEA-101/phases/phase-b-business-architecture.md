@@ -23,7 +23,17 @@
 - **To Phase C:** Business outcomes drive **data** and **applications** architecture.
 - **Requirements Management:** Business requirements are captured and refined continuously.
 
+## Key deliverables (create / update)
+
+| Deliverable | In Phase B |
+|-------------|------------|
+| **Architecture Definition Document** | **Draft / extend** with Business Architecture baseline & target |
+| **Architecture Requirements Specification** | **Draft / extend** business-related requirements |
+| **Architecture Roadmap** | May contribute **roadmap components** (not the finalized roadmap) |
+
 ## Boundaries
 
 - **Not Phase C:** Primary ownership of **Data** and **Applications** architectures is **C**, not B.
 - **Not Phase D:** **Technology** platform architecture is developed in **D**.
+
+Lifecycle table: [../reference/deliverable-lifecycle-by-phase.md](../reference/deliverable-lifecycle-by-phase.md).

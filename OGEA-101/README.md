@@ -22,6 +22,7 @@ This folder implements the study plan (ADM baseline, definitions, cross-cutting 
 | [reference/TOGAF-Acronym-Cheat-Sheet.pdf](reference/TOGAF-Acronym-Cheat-Sheet.pdf) | Acronym cheat sheet for last-minute memory refresh |
 | [reference/architecture-principles-and-adr.md](reference/architecture-principles-and-adr.md) | Principle template (Name/Statement/Rationale/Implications) + ADR practice template |
 | [reference/landscape-deliverables-maturity.md](reference/landscape-deliverables-maturity.md) | Strategic/Segment/Capability; capability vs value stream; ADD/Requirements Spec/Roadmap/Contract; maturity vs compliance |
+| [reference/deliverable-lifecycle-by-phase.md](reference/deliverable-lifecycle-by-phase.md) | Which phase creates/updates ADD, ARS, Roadmap, Contract, Vision, and related deliverables |
 
 ## ADM phase deep dives (`phases/`)
 

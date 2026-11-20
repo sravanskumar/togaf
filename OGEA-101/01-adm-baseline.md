@@ -41,3 +41,11 @@
 5. Ongoing monitoring of change and architecture updates aligns with which phase?
 
 **Answers:** (1) A (2) E (3) F (4) G (5) H
+
+---
+
+## Deliverable lifecycle (exam hook)
+
+**B–D** draft **ADD** + **ARS** → **E** update + **first complete Roadmap** → **F finalize** ADD/ARS/Roadmap → **G** Contract + compliance.
+
+Full table: [reference/deliverable-lifecycle-by-phase.md](reference/deliverable-lifecycle-by-phase.md).

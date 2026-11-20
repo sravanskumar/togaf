@@ -34,7 +34,18 @@ Full write-up: [../reference/architecture-principles-and-adr.md](../reference/ar
 - **Enables all later phases:** Without capability and governance, cycles lack authority and consistency.
 - **Requirements Management:** When ADM cycles run, requirements work still flows through the central hub.
 
+## Key deliverables (create / update)
+
+| Deliverable | In Preliminary |
+|-------------|----------------|
+| **Architecture Principles** | **Established** (Name / Statement / Rationale / Implications) |
+| **Organizational Model for EA / tailored framework** | **Established** |
+| **Architecture Repository** (structure/use) | Often **initialized** |
+| **ADD / Roadmap** | **Not** produced here |
+
 ## Boundaries
 
 - **Not Phase A:** Preliminary does **not** produce the **Architecture Vision** or initiative-specific **business case** to proceed — that is Phase A.
 - **Not B/C/D:** Does **not** develop domain architectures (business, IS, technology) in detail.
+
+Lifecycle table: [../reference/deliverable-lifecycle-by-phase.md](../reference/deliverable-lifecycle-by-phase.md).

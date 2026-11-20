@@ -48,6 +48,9 @@
 - Planned evolution to Target → **Roadmap**  
 - Implementation commitments / conformance agreement → **Contract**
 
+**Create / update by phase:** see [deliverable-lifecycle-by-phase.md](deliverable-lifecycle-by-phase.md)  
+(**B–D draft ADD/ARS** → **E update / first full Roadmap** → **F finalize**; ADD = qualitative, ARS = quantitative.)
+
 ---
 
 ## 4. Architecture Maturity Model vs compliance review

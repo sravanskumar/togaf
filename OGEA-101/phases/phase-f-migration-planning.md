@@ -21,7 +21,19 @@
 - **To Phase G:** The roadmap and constraints become what implementation must **conform** to.
 - **Requirements Management:** Migration constraints and priorities feed the hub.
 
+## Key deliverables (create / update)
+
+| Deliverable | In Phase F |
+|-------------|------------|
+| **Architecture Roadmap** | **Finalized** (incremental from E) |
+| **Implementation and Migration Plan** | **Finalized** |
+| **ADD / ARS** | **Finalized** for the cycle |
+| **Implementation Governance Model** | Often **created** for use in G |
+| **Architecture Contract** | Often **prepared** (signed/used in G) |
+
 ## Boundaries
 
-- **Not Phase E:** E focuses on **what** major chunks and options; F focuses on **when** and **how** the transition unfolds.
+- **Not Phase E:** E focuses on **what** major chunks and the **first complete** roadmap; F **finalizes** timing/migration.
 - **Not Phase G:** F **plans** migration; G **governs** delivery against the architecture during projects.
+
+Lifecycle table: [../reference/deliverable-lifecycle-by-phase.md](../reference/deliverable-lifecycle-by-phase.md).

@@ -23,7 +23,19 @@
 - **To Phase B (and onward):** Vision and scope **constrain** business and IS/technology work.
 - **Requirements Management:** Vision-level needs feed the ongoing requirements process.
 
+## Key deliverables (create / update)
+
+| Deliverable | In Phase A |
+|-------------|------------|
+| **Statement of Architecture Work** | **Created** and approved |
+| **Architecture Vision** | **Created** |
+| **Communications Plan** | Often **created** |
+| **Capability Assessment** | Often produced / used |
+| **Architecture Definition Document** | Vision informs later ADD; **detailed ADD** is built in **B–D**, not finished here |
+
 ## Boundaries
 
 - **Not Preliminary:** Phase A is **per cycle / initiative**, not “stand up EA for the whole org.”
 - **Not B/C/D:** Not the primary place for **detailed** business, data, application, or technology models.
+
+Lifecycle table: [../reference/deliverable-lifecycle-by-phase.md](../reference/deliverable-lifecycle-by-phase.md).

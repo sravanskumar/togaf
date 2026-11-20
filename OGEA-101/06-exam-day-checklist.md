@@ -52,6 +52,8 @@
 
 **Deliverables:** ADD = baseline+target+views · Requirements Spec = requirements/constraints · Roadmap = evolution to target · Contract = implementation commitments
 
+**Deliverable lifecycle:** B–D draft ADD/ARS · E first full Roadmap + updates · F finalize ADD/ARS/Roadmap · G Contract/compliance
+
 **Maturity** = EA practice · **Compliance** = implementation conformance
 
 ---

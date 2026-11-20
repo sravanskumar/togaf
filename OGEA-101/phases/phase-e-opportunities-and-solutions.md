@@ -21,7 +21,18 @@
 - **To Phase F:** Work packages feed **migration planning**, sequencing, and roadmap.
 - **Requirements Management:** Solution-level priorities and requirements update continuously.
 
+## Key deliverables (create / update)
+
+| Deliverable | In Phase E |
+|-------------|------------|
+| **Architecture Roadmap** | **First complete** roadmap (e.g. v0.1) — work packages on a timeline |
+| **Transition Architectures** | **Identified** |
+| **Implementation and Migration Plan** | Often **Version 0.1** |
+| **ADD / ARS** | **Updated** (consolidate solutions / gaps) |
+
 ## Boundaries
 
-- **Not Phase F:** **Roadmap**, transition timing, and detailed **migration** planning are **F** (“**when** / how we move”), not E’s main label.
+- **Not Phase F:** **Final** roadmap and migration plan are **F** (“**when** / how we move” finalized); E creates the **first complete** roadmap.
 - **Not Phase G:** **Project-level conformance** and **contracts** are **G** (“**police during build**”).
+
+Lifecycle table: [../reference/deliverable-lifecycle-by-phase.md](../reference/deliverable-lifecycle-by-phase.md).

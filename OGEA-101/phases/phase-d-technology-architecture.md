@@ -22,7 +22,17 @@
 - **To Phase E:** Full B/C/D picture supports **solution grouping** and **work packages**.
 - **Requirements Management:** Technical constraints and requirements are maintained centrally.
 
+## Key deliverables (create / update)
+
+| Deliverable | In Phase D |
+|-------------|------------|
+| **Architecture Definition Document** | **Draft / extend** with Technology Architecture (often completes domain-level ADD draft set with B/C) |
+| **Architecture Requirements Specification** | **Draft / extend** technology-related requirements |
+| **Architecture Roadmap** | May contribute **roadmap components** |
+
 ## Boundaries
 
 - **Not Phase E/F:** Does **not** primarily define **work package** groupings (E) or **migration roadmap** timing (F).
 - **Not Phase G:** Does **not** run **project conformance** — that is implementation governance.
+
+Lifecycle table: [../reference/deliverable-lifecycle-by-phase.md](../reference/deliverable-lifecycle-by-phase.md).

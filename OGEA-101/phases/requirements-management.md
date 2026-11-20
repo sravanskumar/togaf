@@ -19,7 +19,17 @@
 
 - **All phases (Preliminary through H):** The process **interacts** with every phase; exams often test that it is **ongoing**, not confined to Phase A only.
 
+## Key deliverables (create / update)
+
+| Deliverable | Role of Requirements Management |
+|-------------|----------------------------------|
+| **Architecture Requirements Specification** | Continuously **fed and updated**; drafts grow in **B–D**, finalize in **F** |
+| **Requirements Impact Assessment** | Produced when changes affect requirements |
+| **All phase outputs** | Requirements **interact with every phase** |
+
 ## Boundaries
 
 - **Not a domain phase:** It does **not** replace **B/C/D** — it does not “own” business/data/app/tech models.
 - **Not the same as Phase H:** **Requirements Management** is about the **requirements** stream; **Phase H** is broader **architecture change management** (monitoring change, updating the architecture, cycles).
+
+Lifecycle table: [../reference/deliverable-lifecycle-by-phase.md](../reference/deliverable-lifecycle-by-phase.md).
