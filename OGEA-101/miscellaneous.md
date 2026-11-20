@@ -77,8 +77,10 @@ Topics that often appear on the exam but are **not** tied to a **single** ADM ph
 ## 8. Principles and governance (compact pointers)
 
 - **Principles:** Guide **trade-offs**; constrain decisions; must be **usable** (see [03-governance-EFG-drill.md](03-governance-EFG-drill.md)).  
+- **TOGAF principle template (exam):** **Name**, **Statement**, **Rationale**, **Implications** (**N-S-R-I**).  
 - **Architecture Board:** **Governance** and **decisions** (compliance, direction, exceptions).  
-- **Architecture contracts** and **compliance assessments:** Strongly associated with **Phase G** (see [03-governance-EFG-drill.md](03-governance-EFG-drill.md)).
+- **Architecture contracts** and **compliance assessments:** Strongly associated with **Phase G** (see [03-governance-EFG-drill.md](03-governance-EFG-drill.md)).  
+- **ADR (practice, not OGEA-101 core):** Title, Status, Context, Decision, Consequences (+ optional options/pros-cons/links). Principles = standing rules; ADRs = recorded choices under those rules. See [reference/architecture-principles-and-adr.md](reference/architecture-principles-and-adr.md).
 
 ---
 

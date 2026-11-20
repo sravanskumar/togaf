@@ -44,6 +44,8 @@
 
 **E vs F vs G:** E = **what** chunks · F = **when** migrate · G = **police** implementation
 
+**Principle template:** **Name · Statement · Rationale · Implications** (N-S-R-I)
+
 ---
 
 ## If stuck in the last minute

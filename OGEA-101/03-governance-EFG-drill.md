@@ -34,6 +34,12 @@ Agreement between **governing authority** (e.g., Architecture Board / EA governa
 
 - **Purpose:** Guide consistent decision-making; translate strategy into architectural **constraints**.  
 - **Good principles** are understandable, stable enough, and usable — exams may ask **what principles do** (govern trade-offs) vs memorizing sample text.
+- **TOGAF template (exact four parts):** **Name**, **Statement**, **Rationale**, **Implications**.  
+  - **Name** — memorable essence of the rule; avoid tech-platform lock-in.  
+  - **Statement** — unambiguous fundamental rule.  
+  - **Rationale** — **business** benefits / why it matters.  
+  - **Implications** — business/IT requirements, costs, activities; impact if not followed.  
+- Detail + ADR practice note: [reference/architecture-principles-and-adr.md](reference/architecture-principles-and-adr.md).
 
 ---
 
@@ -55,4 +61,7 @@ Agreement between **governing authority** (e.g., Architecture Board / EA governa
 1. Who typically **approves** architecture exceptions in governance models? → **Architecture Board** (or equivalent governance authority)  
 2. Principles primarily exist to? → **Guide and constrain** architecture decisions consistently  
 3. Compliance assessments measure? → **Conformance** to architecture  
-4. Architecture contracts are most associated with? → **Phase G**
+4. Architecture contracts are most associated with? → **Phase G**  
+5. Four components of a TOGAF Architecture Principle? → **Name, Statement, Rationale, Implications**  
+6. Which principle component explains **business benefits**? → **Rationale**  
+7. Which principle component covers **resources, costs, and activities** to apply the rule? → **Implications**

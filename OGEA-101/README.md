@@ -20,6 +20,7 @@ This folder implements the study plan (ADM baseline, definitions, cross-cutting 
 | File | Purpose |
 |------|---------|
 | [reference/TOGAF-Acronym-Cheat-Sheet.pdf](reference/TOGAF-Acronym-Cheat-Sheet.pdf) | Acronym cheat sheet for last-minute memory refresh |
+| [reference/architecture-principles-and-adr.md](reference/architecture-principles-and-adr.md) | Principle template (Name/Statement/Rationale/Implications) + ADR practice template |
 
 ## ADM phase deep dives (`phases/`)
 
