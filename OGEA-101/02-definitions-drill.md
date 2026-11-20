@@ -80,4 +80,6 @@ Memorize **names** and **what kind of thing** lives there:
 10. Viewpoint is the **resulting diagram**: Y/N? **N** (that’s the view)  
 11. Architecture Definition Document is a? **Deliverable**  
 12. An application catalog or data matrix inside the ADD is a? **Artifact**  
-13. Content Framework triad? **Deliverables, Artifacts, Building Blocks**
+13. Content Framework triad? **Deliverables, Artifacts, Building Blocks**  
+14. “All apps must use enterprise identity; Region X data residency” — architecture requirement or UI backlog story? **Architecture requirement**  
+15. “As a user I can upload a profile photo” — architecture requirement or backlog feature? **Backlog feature** (not the ARS focus)

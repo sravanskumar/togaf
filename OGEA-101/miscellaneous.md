@@ -20,7 +20,7 @@ Topics that often appear on the exam but are **not** tied to a **single** ADM ph
 | **Standards Information Base** | **Standards** catalog (mandatory + voluntary) | standards, compliance to standards catalog |
 | **Reference Library** | **Reference models**, **patterns**, **templates**, guidelines | patterns, templates, reference model |
 | **Governance Log** | **Decisions**, **compliance** outcomes, waivers | governance decision, compliance result, exception record |
-| **Architecture Requirements Repository** | **Architecture requirements** collected across ADM | requirements repository, architecture requirements |
+| **Architecture Requirements Repository** | **Architecture requirements** collected across ADM (constraints/qualities/standards — e.g. residency, SLA, mandatory ID service — not only feature backlog) | requirements repository, architecture requirements |
 
 ---
 

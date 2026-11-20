@@ -10,6 +10,19 @@
 | **Requirements baseline** | Agreed set of requirements that architecture work must **satisfy** at a point in time. |
 | **Central hub** | Requirements Management connects to **each** phase — not a one-off step at the start. |
 
+## Architecture requirement — examples (vs backlog)
+
+| Architecture requirement (exam flavor) | Not the same as (backlog / UI feature) |
+|----------------------------------------|----------------------------------------|
+| Customer data must remain in Region X (residency) | “As a user I can edit my profile photo” |
+| All domain apps must use the enterprise identity service | “Add a forgot-password link” |
+| Mortgage decisioning availability target: 99.9% | “Fix CSS spacing on the login page” |
+| Integrations must go through the approved API gateway | “Build a one-off point-to-point script for this release” |
+| Audit logging required for all credit decisions | “Show a green checkmark when submit succeeds” |
+| Interoperability: exchange customer master data via the canonical model | “Hard-code customer fields in one screen only” |
+
+**Exam hook:** Architecture requirements are often **constraints, qualities, standards, interoperability, compliance, SLAs** — they shape the **architecture**. Product backlog items are often **feature behaviors** for a single solution increment.
+
 ## Functions (exam level)
 
 - Keep requirements **aligned** as architecture moves from vision through implementation and change.

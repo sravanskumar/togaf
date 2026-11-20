@@ -67,7 +67,7 @@ Think: **breadth ↓ → detail ↑**. Strategic answers “where is the enterpr
 | Deliverable | What it consolidates / does |
 |-------------|-----------------------------|
 | **Architecture Definition Document (ADD)** | Consolidates **Baseline** and **Target** Architecture descriptions, including relevant **views** and supporting **analysis**. |
-| **Architecture Requirements Specification** | Captures the **detailed requirements** and **constraints**. |
+| **Architecture Requirements Specification** | Captures the **detailed requirements** and **constraints** (e.g. SLAs, residency, mandatory shared services, interoperability — not only UI backlog items). |
 | **Architecture Roadmap** | Describes the **planned evolution** toward the Target Architecture (timing / transition path). |
 | **Architecture Contract** | Formalizes **implementation-related commitments** and **governance** expectations (Phase **G** flavor). |
 

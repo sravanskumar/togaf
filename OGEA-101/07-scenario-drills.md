@@ -31,6 +31,7 @@ This file trains that skill: **read the story → spot the keyword → map to th
 | Continuous requirements / impact of requirement change | **Requirements Management** |
 | Baseline + target + views in one formal document | **ADD** |
 | Measurable criteria / quantitative requirements | **ARS** |
+| Residency, SLA, mandatory API gateway / identity, audit logging | **Architecture requirement** (not a UI user story) |
 | Work packages on a timeline toward target | **Architecture Roadmap** |
 | Implementation commitments between governance and delivery | **Architecture Contract** |
 | Catalog / matrix / diagram | **Artifact** |

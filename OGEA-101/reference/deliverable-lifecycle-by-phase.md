@@ -58,6 +58,15 @@
 | **Finalizes** | **Phase F**. |
 | **Uses later** | Often a major input to **Architecture Contract** / implementation in **G**. |
 
+**Example content that belongs in ARS (not “user stories only”)**
+
+- Measurable SLA / availability targets for a capability  
+- Data residency and security classification constraints  
+- Mandatory use of enterprise identity / API gateway / canonical data model  
+- Interoperability and audit requirements an implementation must meet  
+
+More contrasts: [../phases/requirements-management.md](../phases/requirements-management.md).
+
 ### Architecture Roadmap
 
 | | |
