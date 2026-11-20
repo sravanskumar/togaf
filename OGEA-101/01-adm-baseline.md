@@ -8,17 +8,19 @@
 
 ## One-liner goals (exam headlines)
 
-| Phase | Goal (what the exam expects you to recognize) |
-|-------|--------------------------------------------------|
-| **Preliminary** | Prepare the organization: scope, principles, frameworks, **EA capability**, **governance** basics. |
-| **A — Architecture Vision** | Agree scope/stakeholders/concerns; high-level baseline/target; secure **approval** / **business case** to proceed. |
-| **B — Business** | Develop **Business Architecture** baseline → target; gap; views for business decisions. |
-| **C — Information Systems** | **Data** + **Application** architectures (IS = Data + App). |
-| **D — Technology** | **Technology** baseline → target; standards alignment. |
-| **E — Opportunities & Solutions** | Consolidate cross-phase gaps; identify **work packages** / major change groupings. |
-| **F — Migration Planning** | **Roadmap**, timing, transition architecture; sequencing. |
-| **G — Implementation Governance** | Govern implementation: **architecture contracts**, **compliance** with architecture. |
-| **H — Architecture Change Management** | Monitor business/tech **change**; value; manage architecture lifecycle updates. |
+| Phase | Goal (what the exam expects you to recognize) | Example situation |
+|-------|--------------------------------------------------|-------------------|
+| **Preliminary** | Prepare the organization: scope, principles, frameworks, **EA capability**, **governance** basics. | No EA team/principles yet — stand up the practice |
+| **A — Architecture Vision** | Agree scope/stakeholders/concerns; high-level baseline/target; secure **approval** / **business case** to proceed. | Approve Vision + SoAW for digitize-lending |
+| **B — Business** | Develop **Business Architecture** baseline → target; gap; views for business decisions. | Mortgage underwriting processes/capabilities |
+| **C — Information Systems** | **Data** + **Application** architectures (IS = Data + App). | Loan entities + apps that own them |
+| **D — Technology** | **Technology** baseline → target; standards alignment. | Platforms/zones/standards for lending stack |
+| **E — Opportunities & Solutions** | Consolidate cross-phase gaps; identify **work packages** / major change groupings. | Packages: KYC, decision engine, servicing |
+| **F — Migration Planning** | **Roadmap**, timing, transition architecture; sequencing. | 8-quarter sequenced roadmap |
+| **G — Implementation Governance** | Govern implementation: **architecture contracts**, **compliance** with architecture. | Vendor contract + compliance reviews |
+| **H — Architecture Change Management** | Monitor business/tech **change**; value; manage architecture lifecycle updates. | New regulation → change cycle |
+
+More examples: [reference/exam-examples-gallery.md](reference/exam-examples-gallery.md).
 
 ---
 

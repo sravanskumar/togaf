@@ -63,6 +63,8 @@
 
 **Techniques:** Gap = B/C/D · Compliance = G · Maturity = EA practice · Business scenario = scope/stakeholders · RM Impact = requirements change
 
+**Examples hub:** [reference/exam-examples-gallery.md](reference/exam-examples-gallery.md) (if a stem feels abstract, match it to a gallery example)
+
 ---
 
 ## If stuck in the last minute

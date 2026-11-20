@@ -71,4 +71,4 @@ Skip full procedure manuals — Foundation tests recognition and scenario mappin
 
 ---
 
-**Related files:** [landscape-deliverables-maturity.md](landscape-deliverables-maturity.md) · [deliverable-lifecycle-by-phase.md](deliverable-lifecycle-by-phase.md) · [07-scenario-drills.md](../07-scenario-drills.md)
+**Related files:** [landscape-deliverables-maturity.md](landscape-deliverables-maturity.md) · [deliverable-lifecycle-by-phase.md](deliverable-lifecycle-by-phase.md) · [exam-examples-gallery.md](exam-examples-gallery.md) · [07-scenario-drills.md](../07-scenario-drills.md)

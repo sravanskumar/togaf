@@ -27,6 +27,7 @@ This folder implements the study plan (ADM baseline, definitions, cross-cutting 
 | [reference/artifacts-vs-deliverables.md](reference/artifacts-vs-deliverables.md) | Deliverables vs artifacts vs building blocks (Content Framework triad) |
 | [reference/artifact-lifecycle-by-phase.md](reference/artifact-lifecycle-by-phase.md) | Which phase produces/updates catalogs, matrices, diagrams and under what circumstances |
 | [reference/techniques-cheat-sheet.md](reference/techniques-cheat-sheet.md) | Techniques: gap analysis, compliance, maturity, business scenarios, RM impact, readiness, E/F matrices, traps |
+| [reference/exam-examples-gallery.md](reference/exam-examples-gallery.md) | Concrete examples for phases, definitions, continuum, repository, principles, deliverables, techniques, governance |
 
 ## ADM phase deep dives (`phases/`)
 
@@ -48,7 +49,7 @@ Each file lists **key terms**, **functions**, **links to other phases**, and **b
 ## Suggested order
 
 1. Read **01** → redraw ADM from memory.  
-2. Drill **02** until flash questions are instant.  
+2. Drill **02** until flash questions are instant (use [exam-examples-gallery](reference/exam-examples-gallery.md) when a term feels abstract).  
 3. Skim **miscellaneous** (repository keywords, continuum, scenarios, gap analysis, traps).  
 4. Complete **03** elimination drill.  
 5. Drill **07** scenario stems (situational questions) until keyword→concept is automatic.  

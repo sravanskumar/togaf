@@ -9,6 +9,8 @@
 
 **Elimination trick:** If the stem says “logical / architecture description / capability package” → lean **ABB**. If “implemented by vendor product / deployed component” → **SBB**.
 
+**Examples:** ABB = logical “Customer Identity”; SBB = Okta/Azure AD implementing it. More: [reference/exam-examples-gallery.md](reference/exam-examples-gallery.md).
+
 ---
 
 ## Artifacts vs Deliverables (Content Framework)
@@ -20,6 +22,8 @@
 | **Building Block** | **Reusable** capability component (**ABB** / **SBB**) — described by artifacts, packaged in deliverables. |
 
 **Memory:** Deliverable = signed **package**. Artifact = **piece** of description. Building Block = reusable **capability** chunk.
+
+**Examples:** Deliverable = signed ADD; Artifact = app catalog/matrix/diagram inside it. Gallery: [reference/exam-examples-gallery.md](reference/exam-examples-gallery.md).
 
 Full note: [reference/artifacts-vs-deliverables.md](reference/artifacts-vs-deliverables.md).  
 Phase produce/update map: [reference/artifact-lifecycle-by-phase.md](reference/artifact-lifecycle-by-phase.md).
@@ -37,6 +41,8 @@ Phase produce/update map: [reference/artifact-lifecycle-by-phase.md](reference/a
 
 **Memory:** Viewpoint = **recipe**; View = **dish**; Concern = **what matters** to the stakeholder.
 
+**Examples:** Stakeholder = CRO; Concern = auditable credit decisions; Viewpoint = security conventions; View = security diagrams delivered to auditors.
+
 ---
 
 ## Enterprise Continuum (direction)
@@ -47,6 +53,8 @@ Generic / industry-standard material on the **left** → more **organization-spe
 - **Solutions Continuum:** Foundation Solutions → Common Systems Solutions → Industry Solutions → **Organization-Specific** solutions.
 
 **Exam pattern:** “Most tailored to the organization” = **Organization-Specific** end.
+
+**Examples:** Industry = banking lending reference architecture; Organization-Specific = *this bank’s* tailored lending target architecture.
 
 ---
 
@@ -61,6 +69,8 @@ Memorize **names** and **what kind of thing** lives there:
 5. **Reference Library** — guidelines, templates, patterns, **reference models**.  
 6. **Governance Log** — governance record (decisions, compliance, exceptions).  
 7. **Architecture Requirements Repository** — collected requirements output from ADM.
+
+**Examples:** SIB = “must use API gateway”; Reference Library = integration patterns; Governance Log = exception until 2027; Requirements Repository = residency/SLA requirements. Full gallery: [reference/exam-examples-gallery.md](reference/exam-examples-gallery.md).
 
 **Drill:** Cover the right column; recall the **seven names** in any order, then match to “what lives there.”
 

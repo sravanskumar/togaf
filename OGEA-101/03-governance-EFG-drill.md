@@ -10,11 +10,15 @@ If the stem mentions **roadmap / transition / timing / migration plan** → **F*
 If **work packages / grouping initiatives / consolidating gaps** → **E**.  
 If **contracts / compliance / conformance during implementation** → **G**.
 
+**Examples:** E = group gaps into “KYC platform” + “decision engine” work packages; F = put them on an 8-quarter roadmap; G = vendor must pass compliance vs ADD/ARS. Gallery: [reference/exam-examples-gallery.md](reference/exam-examples-gallery.md).
+
 ---
 
 ## Compliance assessments (exam vocabulary)
 
 Used to **measure** how implementation (or partner systems) **conforms** to the architecture. Tied to **Phase G** context (implementation governance), not to initial visioning.
+
+**Example:** Payments project reviewed for mandatory identity integration → non-conformant → remediation (not an EA maturity score).
 
 **Do not confuse with Architecture Maturity Model:** compliance = **implementation** conformance; maturity = how developed the **EA practice** is (see [reference/landscape-deliverables-maturity.md](reference/landscape-deliverables-maturity.md)).
 
@@ -26,11 +30,15 @@ More techniques (gap analysis, readiness, RM impact, E/F matrices): [reference/t
 
 Agreement between **governing authority** (e.g., Architecture Board / EA governance) and **development organization** defining deliverables, **compliance**, metrics, acceptance criteria — supports **Phase G**.
 
+**Example:** Vendor Y commits to API gateway + audit logging and accepts compliance reviews before go-live.
+
 ---
 
 ## Architecture Board (recognition level)
 
 **Decision body** for architecture governance: reviews compliance, resolves impacts, approves exceptions, owns principles enforcement (wording varies; exam favors **governance + decision-making** role).
+
+**Example:** Board approves an 18-month exception to keep a legacy payments hub.
 
 ---
 
@@ -43,7 +51,7 @@ Agreement between **governing authority** (e.g., Architecture Board / EA governa
   - **Statement** — unambiguous fundamental rule.  
   - **Rationale** — **business** benefits / why it matters.  
   - **Implications** — business/IT requirements, costs, activities; impact if not followed.  
-- Detail + ADR practice note: [reference/architecture-principles-and-adr.md](reference/architecture-principles-and-adr.md).
+- **Mini example (“Buy over Build”):** Name → Statement (prefer buy) → Rationale (speed/cost) → Implications (RFP, SaaS review, Board exceptions). Full N-S-R-I example: [reference/exam-examples-gallery.md](reference/exam-examples-gallery.md) · [reference/architecture-principles-and-adr.md](reference/architecture-principles-and-adr.md).
 
 ---
 

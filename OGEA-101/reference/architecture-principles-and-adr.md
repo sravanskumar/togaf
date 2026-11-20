@@ -17,6 +17,8 @@ A well-defined Architecture Principle follows this **exact** four-component stru
 
 **Mnemonic:** **N-S-R-I** — Name, Statement, Rationale, Implications.
 
+**Worked example (“Buy over Build”)** — see [exam-examples-gallery.md](exam-examples-gallery.md) §7 for Name / Statement / Rationale / Implications filled in.
+
 **Where this lives in ADM:** Architecture principles are typically established in the **Preliminary** Phase and then used to constrain decisions across the ADM (and in governance).
 
 ---

@@ -1,6 +1,6 @@
 # Miscellaneous — cross-cutting OGEA-101 topics
 
-Topics that often appear on the exam but are **not** tied to a **single** ADM phase. Use this with [02-definitions-drill.md](02-definitions-drill.md), [03-governance-EFG-drill.md](03-governance-EFG-drill.md), and [`phases/`](phases/). **Confirm** wording against the official **TOGAF Standard, 10th Edition** and your accredited materials.
+Topics that often appear on the exam but are **not** tied to a **single** ADM phase. Use this with [02-definitions-drill.md](02-definitions-drill.md), [03-governance-EFG-drill.md](03-governance-EFG-drill.md), and [`phases/`](phases/). **Concrete examples for most terms:** [reference/exam-examples-gallery.md](reference/exam-examples-gallery.md). **Confirm** wording against the official **TOGAF Standard, 10th Edition** and your accredited materials.
 
 ---
 
