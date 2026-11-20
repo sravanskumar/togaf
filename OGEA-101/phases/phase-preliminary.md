@@ -43,9 +43,20 @@ Full write-up: [../reference/architecture-principles-and-adr.md](../reference/ar
 | **Architecture Repository** (structure/use) | Often **initialized** |
 | **ADD / Roadmap** | **Not** produced here |
 
+## Industry note: “Architecture Charter” (not a classic TOGAF exam name)
+
+In practice, an **Architecture Charter** (EA “constitution”: mandate, scope, authority, governance, roles, sponsorship) aligns with **Preliminary** intent — especially the **Organizational Model for EA**, **governance/decision rights**, and **principles**.
+
+| Don’t confuse | With |
+|---------------|------|
+| **EA charter / Organizational Model (Preliminary)** | Standing mandate for the **EA function** |
+| **Statement of Architecture Work (Phase A)** | Approval to run **this** architecture cycle / initiative |
+
+For OGEA-101, prefer TOGAF wording (**Organizational Model**, principles, tailored framework, governance). Treat “Architecture Charter” as a useful practice label for the same Preliminary ideas — not a separate deliverable to memorize.
+
 ## Boundaries
 
-- **Not Phase A:** Preliminary does **not** produce the **Architecture Vision** or initiative-specific **business case** to proceed — that is Phase A.
+- **Not Phase A:** Preliminary does **not** produce the **Architecture Vision** or initiative-specific **business case** / **Statement of Architecture Work** — that is Phase A.
 - **Not B/C/D:** Does **not** develop domain architectures (business, IS, technology) in detail.
 
 Lifecycle table: [../reference/deliverable-lifecycle-by-phase.md](../reference/deliverable-lifecycle-by-phase.md).

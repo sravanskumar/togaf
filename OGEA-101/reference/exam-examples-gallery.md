@@ -178,6 +178,9 @@ Concrete **examples** for high-yield terms. Use with definitions in `02`, `phase
 | **Preliminary** | Hire Lead EA, publish principles, tailor ADM, stand up repository |
 | **Phase A** | For *this* lending initiative: Vision, stakeholders, SoAW approval |
 
+**EA “Architecture Charter” (practice):** mandate/scope/authority for the EA function ≈ **Organizational Model + governance** from **Preliminary**.  
+**SoAW (exam):** agreement to proceed with **this** cycle in **Phase A** — different document.
+
 ---
 
 ## Quick self-check

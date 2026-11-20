@@ -18,8 +18,9 @@
 | Deliverable | Mainly **created / drafted** | **Updated / refined** | **Finalized / used heavily** |
 |-------------|------------------------------|------------------------|------------------------------|
 | **Architecture Principles** | **Preliminary** | Confirmed/elaborated in **A**; change via governance / **H** | Used in **all** phases |
+| **Organizational Model for EA** (practice label: often “EA / Architecture Charter”) | **Preliminary** | Updated when EA mandate/org model changes | Standing authority for the EA **function** — **not** SoAW |
 | **Request for Architecture Work** | Sponsor; may come from **Preliminary**, **F**, or **H** | — | Triggers **Phase A** |
-| **Statement of Architecture Work** | **Phase A** (approved) | Refined **B–F** as scope evolves; update in **H** if needed | Guides the cycle |
+| **Statement of Architecture Work** | **Phase A** (approved) | Refined **B–F** as scope evolves; update in **H** if needed | Guides **this** cycle (≠ EA charter) |
 | **Architecture Vision** | **Phase A** | May refine later if iteration requires | Constrains **B–D** |
 | **Communications Plan** | **Phase A** | As needed | Used through delivery |
 | **Capability Assessment** | **Phase A** (also inputs in **E**) | As needed | Informs feasibility |
