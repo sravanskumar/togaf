@@ -59,6 +59,8 @@
 
 **Content Framework:** Deliverable = signed package · Artifact = catalog/matrix/diagram · Building Block = ABB/SBB
 
+**Techniques:** Gap = B/C/D · Compliance = G · Maturity = EA practice · Business scenario = scope/stakeholders · RM Impact = requirements change
+
 ---
 
 ## If stuck in the last minute

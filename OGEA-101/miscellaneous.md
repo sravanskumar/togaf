@@ -79,6 +79,8 @@ Full exam notes: [reference/landscape-deliverables-maturity.md](reference/landsc
 
 **Exam pattern:** Appears **across** domain phases where baseline/target is defined — not one exclusive phase label; questions often test **definition** and **purpose**.
 
+**More techniques** (compliance, maturity, business scenarios, readiness, RM impact, E/F matrices): [reference/techniques-cheat-sheet.md](reference/techniques-cheat-sheet.md).
+
 ---
 
 ## 7. Iteration and tailoring

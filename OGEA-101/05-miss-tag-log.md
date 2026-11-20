@@ -33,6 +33,11 @@ Use this **after** each timed mock. One row per **wrong** question.
 - `deliverable_lifecycle` — which phase drafts/finalizes ADD/ARS/Roadmap  
 - `principle_NSRI` — Name / Statement / Rationale / Implications  
 - `scenario_keyword` — missed the stem keyword cluster (see [07-scenario-drills.md](07-scenario-drills.md))  
+- `technique_gap` — gap analysis timing/purpose  
+- `technique_compliance` — compliance review vs maturity  
+- `technique_business_scenario` — business scenario purpose  
+- `technique_RM_impact` — Requirements Impact Assessment  
+- `technique_readiness` — Business Transformation Readiness Assessment  
 
 ## Restudy priority
 

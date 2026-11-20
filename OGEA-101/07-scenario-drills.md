@@ -48,6 +48,13 @@ This file trains that skill: **read the story → spot the keyword → map to th
 | EA practice maturity across the org | **Maturity Model** |
 | Did this project conform? | **Compliance assessment** |
 | Name / Statement / Rationale / Implications | **Principle template** |
+| Baseline vs target — what’s missing? | **Gap analysis** (B/C/D → feeds E) |
+| Org readiness for transformation | **Business Transformation Readiness Assessment** |
+| Requirement changed — assess impact | **Requirements Impact Assessment** |
+| Who are stakeholders / concerns? | **Stakeholder mapping** |
+| Consolidate gaps + solutions + dependencies | **Phase E** technique / matrices |
+
+Full technique sheet: [reference/techniques-cheat-sheet.md](reference/techniques-cheat-sheet.md).
 
 ---
 

@@ -18,6 +18,8 @@ Used to **measure** how implementation (or partner systems) **conforms** to the 
 
 **Do not confuse with Architecture Maturity Model:** compliance = **implementation** conformance; maturity = how developed the **EA practice** is (see [reference/landscape-deliverables-maturity.md](reference/landscape-deliverables-maturity.md)).
 
+More techniques (gap analysis, readiness, RM impact, E/F matrices): [reference/techniques-cheat-sheet.md](reference/techniques-cheat-sheet.md).
+
 ---
 
 ## Architecture contracts (exam vocabulary)

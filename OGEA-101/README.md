@@ -25,6 +25,7 @@ This folder implements the study plan (ADM baseline, definitions, cross-cutting 
 | [reference/landscape-deliverables-maturity.md](reference/landscape-deliverables-maturity.md) | Strategic/Segment/Capability; capability vs value stream; ADD/Requirements Spec/Roadmap/Contract; maturity vs compliance |
 | [reference/deliverable-lifecycle-by-phase.md](reference/deliverable-lifecycle-by-phase.md) | Which phase creates/updates ADD, ARS, Roadmap, Contract, Vision, and related deliverables |
 | [reference/artifacts-vs-deliverables.md](reference/artifacts-vs-deliverables.md) | Deliverables vs artifacts vs building blocks (Content Framework triad) |
+| [reference/techniques-cheat-sheet.md](reference/techniques-cheat-sheet.md) | Techniques: gap analysis, compliance, maturity, business scenarios, RM impact, readiness, E/F matrices, traps |
 
 ## ADM phase deep dives (`phases/`)
 
