@@ -79,7 +79,9 @@ Full exam notes: [reference/landscape-deliverables-maturity.md](reference/landsc
 
 **Exam pattern:** Appears **across** domain phases where baseline/target is defined — not one exclusive phase label; questions often test **definition** and **purpose**.
 
-**More techniques** (compliance, maturity, business scenarios, readiness, RM impact, E/F matrices): [reference/techniques-cheat-sheet.md](reference/techniques-cheat-sheet.md).
+**More techniques** (compliance, maturity, business scenarios, readiness, RM impact, E/F matrices, **Initial vs Residual risk**): [reference/techniques-cheat-sheet.md](reference/techniques-cheat-sheet.md).
+
+**Risk (exam):** **Initial** = before mitigation · **Residual** = after mitigation; accepted/managed under **governance**.
 
 ---
 

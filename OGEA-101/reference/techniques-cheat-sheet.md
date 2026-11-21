@@ -15,8 +15,21 @@ Skip full procedure manuals — Foundation tests recognition and scenario mappin
 | **Business scenario** | Describe a business problem; identify stakeholders/concerns; help **scope** architecture work | Often **Phase A** (and early scoping); usable wherever problem framing is needed | Clear problem, actors, objectives, concerns → better Vision/scope | Not a substitute for B/C/D models |
 | **Requirements Impact Assessment** | Assess impact when requirements **change** | **Requirements Management** (any phase) | Updated requirements understanding; may force revisiting architecture work / ARS | Not the same as gap analysis |
 | **Stakeholder analysis / mapping** | Identify stakeholders, concerns, influence/interest | **Phase A** (heavily); refined later as needed | Stakeholder map → drives **viewpoints/views** and engagement | Not the Architecture Board itself |
-| **Risk management (architecture)** | Identify, classify, and mitigate architecture-related risks | Across ADM; often visible in **A** and migration **E/F** | Risk register / mitigation actions affecting roadmap and decisions | Not compliance review |
+| **Risk management (architecture)** | Identify, classify, and mitigate architecture-related risks | Across ADM; often visible in **A** and migration **E/F**; **accepted/managed under governance** | Risk categorization before/after mitigation; residual risk accepted via governance | Not compliance review; EA may identify/mitigate but governance **accepts** risk |
 | **Capability-based planning** | Plan change from **business capabilities** (what we must be able to do) | Business architecture / strategy alignment (**B**, strategic planning context) | Capability gaps and prioritized capability change | Capability ≠ org chart department |
+
+### Initial Risk vs Residual Risk (exam MUST)
+
+TOGAF distinguishes **two levels** of risk categorization:
+
+| Level | Meaning | Exam hook |
+|-------|---------|-----------|
+| **Initial Level of Risk** | Risk categorization **prior to** determining and implementing **mitigating actions** | “Before mitigation” → **Initial** |
+| **Residual Level of Risk** | Risk categorization **after** implementing mitigating actions (if any) | “After mitigation” → **Residual** |
+
+**Also remember:** The Enterprise Architect may identify risks and mitigate some, but risks must be **accepted and managed within the governance framework**.
+
+**Example:** Risk of migration outage categorized as High (**Initial**); after dual-run and rollback plan, categorized as Medium (**Residual**); Architecture Board / governance **accepts** residual risk to proceed.
 
 ---
 

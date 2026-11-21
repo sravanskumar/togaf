@@ -63,6 +63,8 @@
 
 **Techniques:** Gap = B/C/D · Compliance = G · Maturity = EA practice · Business scenario = scope/stakeholders · RM Impact = requirements change
 
+**Risk:** Before mitigation = **Initial** · After mitigation = **Residual** (governance accepts/manages)
+
 **Examples hub:** [reference/exam-examples-gallery.md](reference/exam-examples-gallery.md) (if a stem feels abstract, match it to a gallery example)
 
 ---

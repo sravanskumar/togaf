@@ -38,6 +38,8 @@ Use this **after** each timed mock. One row per **wrong** question.
 - `technique_business_scenario` — business scenario purpose  
 - `technique_RM_impact` — Requirements Impact Assessment  
 - `technique_readiness` — Business Transformation Readiness Assessment  
+- `risk_initial_residual` — Initial vs Residual Level of Risk  
+
 
 ## Restudy priority
 

@@ -54,6 +54,8 @@ This file trains that skill: **read the story → spot the keyword → map to th
 | Requirement changed — assess impact | **Requirements Impact Assessment** |
 | Who are stakeholders / concerns? | **Stakeholder mapping** |
 | Consolidate gaps + solutions + dependencies | **Phase E** technique / matrices |
+| Risk level before mitigations | **Initial Level of Risk** |
+| Risk level after mitigations | **Residual Level of Risk** |
 
 Full technique sheet: [reference/techniques-cheat-sheet.md](reference/techniques-cheat-sheet.md).
 

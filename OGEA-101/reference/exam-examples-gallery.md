@@ -148,6 +148,8 @@ Concrete **examples** for high-yield terms. Use with definitions in `02`, `phase
 | **Stakeholder mapping** | Plot CRO vs CIO vs regulator interest/influence |
 | **Transformation readiness** | Assess whether ops/culture can absorb simultaneous KYC + core change |
 | **Trade-off analysis** | Faster cloud SaaS vs stricter data residency control |
+| **Initial risk** | Migration outage risk rated High **before** dual-run/rollback plan |
+| **Residual risk** | Same risk rated Medium **after** mitigations; governance accepts it |
 
 ---
 

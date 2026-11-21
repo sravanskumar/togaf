@@ -92,4 +92,6 @@ Memorize **names** and **what kind of thing** lives there:
 12. An application catalog or data matrix inside the ADD is a? **Artifact**  
 13. Content Framework triad? **Deliverables, Artifacts, Building Blocks**  
 14. “All apps must use enterprise identity; Region X data residency” — architecture requirement or UI backlog story? **Architecture requirement**  
-15. “As a user I can upload a profile photo” — architecture requirement or backlog feature? **Backlog feature** (not the ARS focus)
+15. “As a user I can upload a profile photo” — architecture requirement or backlog feature? **Backlog feature** (not the ARS focus)  
+16. Risk categorization **before** mitigations? **Initial Level of Risk**  
+17. Risk categorization **after** mitigations? **Residual Level of Risk**
