@@ -70,6 +70,8 @@ TOGAF distinguishes **two levels** of risk categorization:
 | “Who cares and what are their concerns?” | **Stakeholder mapping** |
 | “Can the organization absorb this transformation?” | **Transformation readiness** |
 | “Consolidate gaps into solution options and dependencies” | **Phase E matrices / work packaging** |
+| “Risk level before mitigations are applied” | **Initial Level of Risk** |
+| “Risk level after mitigations” | **Residual Level of Risk** |
 
 ---
 
@@ -81,6 +83,8 @@ TOGAF distinguishes **two levels** of risk categorization:
 4. Business scenario mainly helps? → **Scope / stakeholders / problem framing**  
 5. Requirements change impact? → **Requirements Impact Assessment** (RM hub)  
 6. Consolidated gaps + solutions + dependencies? → **Phase E**  
+7. Risk categorization **before** mitigation? → **Initial**  
+8. Risk categorization **after** mitigation? → **Residual**  
 
 ---
 
