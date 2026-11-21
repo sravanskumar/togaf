@@ -39,6 +39,15 @@ Use this **after** each timed mock. One row per **wrong** question.
 - `technique_RM_impact` — Requirements Impact Assessment  
 - `technique_readiness` — Business Transformation Readiness Assessment  
 - `risk_initial_residual` — Initial vs Residual Level of Risk  
+- `series_guides` — TOGAF Series Guides vs Fundamental Content  
+- `adm_graphic` — ADM = information flows, not waterfall  
+- `essential_knowledge_FH` — Phase F/H Output & Outcome tables  
+- `principle_stability` — enduring + accommodates change  
+- `repo_minimize` — minimize repository information  
+- `scope_depth` — Depth = level of detail  
+- `approved_vs_finalized` — approved ≠ always finalized  
+- `governance_hierarchy` — Architecture Governance in a hierarchy  
+- `governance_directs_controls` — stakeholder directs; practitioner/implementer controlled  
 
 
 ## Restudy priority

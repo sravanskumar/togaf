@@ -38,7 +38,12 @@ Agreement between **governing authority** (e.g., Architecture Board / EA governa
 
 **Decision body** for architecture governance: reviews compliance, resolves impacts, approves exceptions, owns principles enforcement (wording varies; exam favors **governance + decision-making** role).
 
+**Often-tested responsibility:** **enforcement of architecture compliance**.  
+**Trap:** Don’t pick “assess maturity of the architecture discipline” when the stem asks about Board **compliance** responsibility.
+
 **Example:** Board approves an 18-month exception to keep a legacy payments hub.
+
+**Governance hierarchy:** Architecture Governance typically operates **within a hierarchy** (e.g. with Corporate / Technology / IT governance) — not in isolation. See [reference/togaf10-official-paper-gaps.md](reference/togaf10-official-paper-gaps.md).
 
 ---
 

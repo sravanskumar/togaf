@@ -17,6 +17,8 @@ Topics that often appear on the exam but are **not** tied to a **single** ADM ph
 | **Architecture Metamodel** | Rules for **how** your org structures architecture descriptions | metamodel, entities/relationships in descriptions |
 | **Architecture Capability** | **Who** does EA: roles, skills, operating model | capability, skills, roles, EA team |
 | **Architecture Landscape** | **States** of architecture at **Strategic / Segment / Capability** breadth (and related depth) | landscape, strategic/segment/capability |
+
+**Repository exam extra:** A well-run repository **minimizes** information gathered/maintained (don’t store everything “because TOGAF listed it”). See [reference/togaf10-official-paper-gaps.md](reference/togaf10-official-paper-gaps.md).
 | **Standards Information Base** | **Standards** catalog (mandatory + voluntary) | standards, compliance to standards catalog |
 | **Reference Library** | **Reference models**, **patterns**, **templates**, guidelines | patterns, templates, reference model |
 | **Governance Log** | **Decisions**, **compliance** outcomes, waivers | governance decision, compliance result, exception record |

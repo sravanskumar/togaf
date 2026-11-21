@@ -19,7 +19,21 @@ A well-defined Architecture Principle follows this **exact** four-component stru
 
 **Worked example (“Buy over Build”)** — see [exam-examples-gallery.md](exam-examples-gallery.md) §7 for Name / Statement / Rationale / Implications filled in.
 
+### Recommended criteria for a good set of principles
+
+| Criterion | Hook |
+|-----------|------|
+| **Understandable** | Clear to decision-makers |
+| **Robust** | Supports good decisions in varied situations |
+| **Complete** | Covers needed situations |
+| **Consistent** | Principles don’t conflict destructively |
+| **Stable** | **Enduring** and yet able to **accommodate change** |
+
+**Exam trap:** “enduring and yet able to accommodate change” → **Stability** (not Robustness/Completeness).
+
 **Where this lives in ADM:** Architecture principles are typically established in the **Preliminary** Phase and then used to constrain decisions across the ADM (and in governance).
+
+More official-paper gaps: [togaf10-official-paper-gaps.md](togaf10-official-paper-gaps.md).
 
 ---
 

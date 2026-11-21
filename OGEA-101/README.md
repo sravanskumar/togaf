@@ -28,6 +28,7 @@ This folder implements the study plan (ADM baseline, definitions, cross-cutting 
 | [reference/artifact-lifecycle-by-phase.md](reference/artifact-lifecycle-by-phase.md) | Which phase produces/updates catalogs, matrices, diagrams and under what circumstances |
 | [reference/techniques-cheat-sheet.md](reference/techniques-cheat-sheet.md) | Techniques: gap analysis, compliance, maturity, business scenarios, RM impact, readiness, E/F matrices, traps |
 | [reference/exam-examples-gallery.md](reference/exam-examples-gallery.md) | Concrete examples for phases, definitions, continuum, repository, principles, deliverables, techniques, governance |
+| [reference/togaf10-official-paper-gaps.md](reference/togaf10-official-paper-gaps.md) | B220-style gaps: Series Guides, ADM graphic, Essential Knowledge F/H, principle Stability, scope Depth, governance hierarchy, approved≠finalized, etc. |
 
 ## ADM phase deep dives (`phases/`)
 
@@ -53,8 +54,9 @@ Each file lists **key terms**, **functions**, **links to other phases**, and **b
 3. Skim **miscellaneous** (repository keywords, continuum, scenarios, gap analysis, traps).  
 4. Complete **03** elimination drill.  
 5. Drill **07** scenario stems (situational questions) until keyword→concept is automatic.  
-6. Sit **04** questions under **60 minutes** closed book → score with **04-mock-exam-answers** → fill **05**.  
-7. Morning of exam: **06** only (+ weak tags from **05**); skim the [acronym cheat sheet](reference/TOGAF-Acronym-Cheat-Sheet.pdf) if needed.
+6. Sit **04** / official B220 practice → score → fill **05**.  
+7. If under 60%: study [togaf10-official-paper-gaps](reference/togaf10-official-paper-gaps.md), re-drill wrongs, retest B220 (target ≥28/40).  
+8. Morning of exam: **06** only (+ weak tags from **05**); skim the [acronym cheat sheet](reference/TOGAF-Acronym-Cheat-Sheet.pdf) if needed.
 
 ---
 

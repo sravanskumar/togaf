@@ -51,3 +51,5 @@ More examples: [reference/exam-examples-gallery.md](reference/exam-examples-gall
 **B–D** draft **ADD** + **ARS** → **E** update + **first complete Roadmap** → **F finalize** ADD/ARS/Roadmap → **G** Contract + compliance.
 
 Full table: [reference/deliverable-lifecycle-by-phase.md](reference/deliverable-lifecycle-by-phase.md).
+
+**After official practice misses:** [reference/togaf10-official-paper-gaps.md](reference/togaf10-official-paper-gaps.md) (Series Guides, Essential Knowledge F/H, ADM graphic, Stability, Depth, governance hierarchy, etc.).

@@ -65,7 +65,9 @@
 
 **Risk:** Before mitigation = **Initial** · After mitigation = **Residual** (governance accepts/manages)
 
-**Examples hub:** [reference/exam-examples-gallery.md](reference/exam-examples-gallery.md) (if a stem feels abstract, match it to a gallery example)
+**Official-paper extras:** Series Guides = how to apply · ADM graphic = info flows · Principle **Stability** · Repo **minimize** · Scope **Depth** = detail · Approved ≠ finalized · Governance **hierarchy** · Board **enforces compliance** · F = approved projects/dates · H = value realization
+
+**Examples hub:** [reference/exam-examples-gallery.md](reference/exam-examples-gallery.md) · Gaps: [reference/togaf10-official-paper-gaps.md](reference/togaf10-official-paper-gaps.md)
 
 ---
 
